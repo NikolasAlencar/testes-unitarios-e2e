@@ -1,3 +1,5 @@
+# Não recomendo esse curso, pra quem está aprendendo pode ser bem difícil de entender algo e pouco produtivo no quesito aprendizagem.
+
 ![Jornada Milhas](thumbnail.png)
 
 # Jornada Milhas
